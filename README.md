@@ -8,14 +8,3 @@
 * I'm sure there is research on this, after I start experimenting I'll link stuff
 * i'm really interested in how much slower learning happens with diffeernt levels of uncertiainty, and using a simple math function means infinite cheap "data" made anywhere i'm at/training it.
 * Thanks for reading! :)
-
-
-# But for now, super basic stuff
-* playing with tensors, then the classics
-
-
-# plan thus far in order (math only):
-* basic train NN to match some basic funcitions, X, X^2, sinx, tanx(interesting!!)
-* then some little improvements for all, ex bounding output range for sinx to [-1,1]
-* then try random vs even distribution of data (not that this is super meaningful in practice, i'm just curious)
-* then I'll work on adding different levels of error in the data, and see how things change (% error?)
