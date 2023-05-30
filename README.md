@@ -20,3 +20,4 @@
 * Show off every new image that was incorrectly identified
 
 # tic tac toe
+* This is cool, maybe I can make a website for people to play, and they can add to data?
