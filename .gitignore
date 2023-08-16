@@ -1,5 +1,7 @@
 # venv I'm using:
 pytorch
 MNISTNotes.ipynb
+cv_env
+openCV/images
 # So I don't upload all thedata to github
 /MNIST
