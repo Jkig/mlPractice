@@ -2,6 +2,7 @@ import cv2 as cv
 import numpy as np
 
 img = cv.imread("images/winter.png")
+cv.imshow("reg", img)
 
 # translate:
 def translate(img,x,y):
@@ -26,6 +27,11 @@ rotated = rotate(img, -30)
 
 # resizing:
 resized = cv.resize(img, (500,500), interpolation=cv.INTER_CUBIC)
-cv.imshow("resized", resized)
+# cv.imshow("resized", resized)
+
+# flip:
+
+flip = cv.flip(img, -1)
+cv.imshow("flipped", flip)
 
 cv.waitKey(5000)
