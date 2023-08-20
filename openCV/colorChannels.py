@@ -11,8 +11,8 @@ b, g, r = cv.split(img)
 # cv.imshow("Blue", b)
 # cv.imshow("Green", g)
 # cv.imshow("Red", r)
-print(img.shape)
-print(b.shape)
+# print(img.shape)
+# print(b.shape)
 
 
 

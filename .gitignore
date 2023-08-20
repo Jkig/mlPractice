@@ -2,6 +2,11 @@
 pytorch
 MNISTNotes.ipynb
 cv_env
+# images and video
 openCV/images
+
+# Making some art with these tools
+openCV/firstTryArt.py
+
 # So I don't upload all thedata to github
 /MNIST
