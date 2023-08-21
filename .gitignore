@@ -6,7 +6,7 @@ cv_env
 openCV/images
 
 # Making some art with these tools
-openCV/firstTryArt.py
+art_practice
 
 # So I don't upload all thedata to github
 /MNIST
